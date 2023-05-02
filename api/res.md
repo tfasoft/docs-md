@@ -13,3 +13,5 @@ Here are the res codes you have to know.
 | 404       | 2       | User access token is not valid       |
 | 403       | 3       | Provider doesn't have enoght credits |
 | 400       | 4       | Provider account is not active       |
+| 400       | 5       | Service is not active                |
+| 403       | 6       | IP not valid                         |
